@@ -45,7 +45,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/vidyaratmayantii/continuous_deployment</url>
+            <url>https://maven.pkg.github.com/vidyaratmayantii/continuous_deployment_test</url>
         </repository>
     </distributionManagement>
 </project>
